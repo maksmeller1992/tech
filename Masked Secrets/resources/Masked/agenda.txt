@@ -1,0 +1,8 @@
+1. Róznica pomiędzy 4 rodzajami maskowanych pól (w tym nowy properties MaskType)
+2. Dla nowego properties mask type: 
+	- Nie można korzystać jednocześnie ze starego properties
+	- Można jedynie używać na kartotekach i dokumentach
+3. Nie zabezpieczają haseł:
+	-sql
+	-configuration packages
+	-debuggowanie
