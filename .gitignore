@@ -1,0 +1,14 @@
+.alpackages/
+.codeAnalisys/
+.vscode/
+.vs/
+.altestrunner/
+*.app
+*.rar
+.vscode
+*.Launch
+*.alcache
+*.altemplates
+*debug.log
+*AppSourceCop.json
+*permissionsAnalyzer.json
